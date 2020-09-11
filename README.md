@@ -7,3 +7,5 @@
  por los dos puntos ver el intercepto con el eje y o ver la ecuacion de la recta
  completa tambien tiene la opcion de ingresar los numeros nuevamente para evaluar
  los puntos que el quiera
+
+![punto1](https://user-images.githubusercontent.com/69492240/92958153-57173380-f42f-11ea-940a-fe100f69c99c.jpeg)
